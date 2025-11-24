@@ -34,6 +34,6 @@
     
     }
 ## 3. Результат работы программы
-![Результат работы программы] (<img  width=“250” src="https://github.com/MariaLavrova6242/Lab3/blob/master/lab3.png">)
+<img  width=“250” src="https://github.com/MariaLavrova6242/Lab3/blob/master/lab3.png">
 ## 4. Информация о разработчике
 Лаврова Мария, бИПТ-252# Lab3
